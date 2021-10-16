@@ -1,0 +1,14 @@
+{ 
+	"0" : {
+		"figure" : "rectangle",
+		"color": [0, 191, 255], 
+		"position": [0, 0, 720, 250],
+		"width": 0
+	},
+	"1" : {
+		"figure" : "rectangle",
+		"color": [210, 180, 140], 
+		"position": [0, 220, 720, 500],
+		"width": 0
+	}
+}

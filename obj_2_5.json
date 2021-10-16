@@ -1,0 +1,41 @@
+{
+	"0" : {
+		"figure" : "line",
+		"color": [150, 75, 0],
+		"position": [
+			[543, 570],
+			[463, 690]
+		],
+		"width": 20
+	},
+	"1" : {
+		"figure" : "line",
+		"color": [150, 75, 0],
+		"position": [
+			[443, 590],
+			[463, 690]
+		],
+		"width": 16
+	},
+	"2" : {
+		"figure" : "circle",
+		"color": [0, 255, 0],
+		"centre": [463, 550],
+		"radius": 80,
+		"width": 0
+	},
+	"3" : {
+		"figure" : "circle",
+		"color": [0, 128, 0],
+		"centre": [463, 586],
+		"radius": 54,
+		"width": 0
+	},
+	"4" : {
+		"figure" : "circle",
+		"color": [0, 175, 0],
+		"centre": [513, 586],
+		"radius": 70,
+		"width": 0
+	}
+}

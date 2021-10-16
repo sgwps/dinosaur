@@ -1,0 +1,530 @@
+{
+	"0" : {
+		"figure" : "rectangle",
+		"color": [77, 143, 172],
+		"position": [0, 0, 1080, 720],
+		"width": 0
+	},
+    "1" : {
+		"figure" : "rectangle",
+		"color": [10, 95, 56],
+		"position": [0, 600, 1080, 720],
+		"width": 0
+	},
+    "2" : {
+          "figure" : "polygon",
+          "color": [59, 57, 77],
+          "position": [[0, 440], [200, 300], [300, 500], [300, 600]],
+          "width": 0
+      },
+    "3" : {
+          "figure" : "polygon",
+          "color": [75, 73, 95],
+          "position": [[0, 440], [300, 600], [0, 600]],
+          "width": 0
+      },
+    "4" : {
+          "figure" : "polygon",
+          "color": [75, 73, 95],
+          "position": [[300, 600], [200, 300], [300, 500], [300, 600]],
+          "width": 0
+      },
+    "5" : {
+          "figure" : "polygon",
+          "color": [59, 57, 77],
+          "position": [[300, 500], [300, 600], [300, 600], [500, 600], [390, 300]],
+          "width": 0
+      },
+    "6" : {
+          "figure" : "polygon",
+          "color": [75, 73, 95],
+          "position": [[390, 300], [450, 600], [500, 600]],
+          "width": 0
+      },
+    "7" : {
+          "figure" : "polygon",
+          "color": [59, 57, 77],
+          "position": [[500, 600], [600, 200], [700, 500]],
+          "width": 0
+      },
+    "8" : {
+		"figure" : "polygon",
+		"color": [75, 73, 95],
+		"position": [[600, 200], [900, 600], [700, 500]],
+		"width": 0
+	},
+    "9" : {
+		"figure" : "polygon",
+		"color": [45, 48, 66],
+		"position": [[300, 600], [470, 400], [600, 600]],
+		"width": 0
+	},
+    "10" : {
+          "figure" : "polygon",
+          "color": [45, 48, 66],
+          "position": [[300, 600], [470, 400], [600, 600]],
+          "width": 0
+      },
+    "11" : {
+          "figure" : "polygon",
+          "color": [75, 73, 95],
+          "position": [[500, 600], [470, 400], [600, 600]],
+          "width": 0
+      },
+    "12" : {
+          "figure" : "polygon",
+          "color": [45, 48, 66],
+          "position": [[700, 500], [1080, 400], [1080, 600]],
+          "width": 0
+      },
+    "13" : {
+          "figure" : "polygon",
+          "color": [45, 48, 66],
+          "position": [[500, 600], [900, 600], [700, 500]],
+          "width": 0
+      },
+     "14" : {
+          "figure" : "polygon",
+          "color": [45, 48, 66],
+          "position": [[700, 500], [800, 300], [1080, 600], [700, 600]],
+          "width": 0
+      },
+     "15" : {
+          "figure" : "polygon",
+          "color": [59, 57, 77],
+          "position": [[900, 600], [800, 300], [1080, 600]],
+          "width": 0
+      },
+    "16" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[250, 200], [250, 300]],
+		"width": 5
+	},
+    "17" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[250, 200], [300, 200]],
+		"width": 5
+	},
+    "18" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[250, 250], [300, 250]],
+		"width": 5
+	},
+    "19" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[250, 300], [300, 300]],
+		"width": 5
+	},
+    "20" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[330, 200], [330, 300]],
+		"width": 5
+	},
+    "21" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[330, 200], [380, 200]],
+		"width": 5
+	},
+    "22" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[380, 200], [390, 220]],
+		"width": 5
+	},
+    "23" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[390, 220], [390, 300]],
+		"width": 5
+	},
+    "24" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[410, 200], [410, 300]],
+		"width": 5
+	},
+    "25" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[410, 200], [460, 200]],
+		"width": 5
+	},
+    "26" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[460, 200], [480, 215]],
+		"width": 5
+	},
+    "27" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[480, 215], [480, 285]],
+		"width": 5
+	},
+    "28" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[480, 285], [460, 300]],
+		"width": 5
+	},
+     "29" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[410, 300], [460, 300]],
+		"width": 5
+	},
+     "30" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[550, 200], [550, 300]],
+		"width": 5
+	},
+    "31" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[550, 200], [600, 200]],
+		"width": 5
+	},
+    "32" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[600, 200], [600, 225]],
+		"width": 5
+	},
+    "33" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[550, 300], [600, 300]],
+		"width": 5
+	},
+    "34" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[600, 300], [600, 265]],
+		"width": 5
+	},
+    "35" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[600, 265], [580, 265]],
+		"width": 5
+	},
+    "36" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[630, 300], [660, 200]],
+		"width": 5
+	},
+    "37" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[660, 200], [690, 300]],
+		"width": 5
+	},
+    "38" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[645, 250], [675, 250]],
+		"width": 5
+	},
+    "39" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[710, 200], [710, 300]],
+		"width": 5
+	},
+    "40" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[710, 200], [760, 200]],
+		"width": 5
+	},
+    "41" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[760, 200], [770, 220]],
+		"width": 5
+	},
+    "42" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[770, 220], [770, 300]],
+		"width": 5
+	},
+    "43" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[770, 220], [780, 200]],
+		"width": 5
+	},
+     "44" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[780, 200], [820, 200]],
+		"width": 5
+	},
+     "45" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[820, 200], [830, 220]],
+		"width": 5
+	},
+    "46" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[830, 220], [830, 300]],
+		"width": 5
+	},
+    "47" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[850, 200], [850, 300]],
+		"width": 5
+	},
+    "48" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[850, 200], [900, 200]],
+		"width": 5
+	},
+    "49" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[850, 250], [900, 250]],
+		"width": 5
+	},
+     "50" : {
+		"figure" : "line",
+		"color": [255, 0, 0],
+		"position": [[850, 300], [900, 300]],
+		"width": 5
+	},
+     "51" : {
+		"figure" : "polygon",
+		"color": [32, 31, 35],
+		"position": [[50, 600], [80, 530], [100, 600]],
+		"width": 0
+	},
+    "52" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[20, 600], [50, 560], [70, 600]],
+          "width": 0
+      },
+    "53" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[0, 600], [30, 540], [40, 600]],
+          "width": 0
+      },
+    "54" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[-10, 600], [10, 565], [15, 600]],
+          "width": 0
+      },
+    "55" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[120, 600], [100, 550], [70, 600]],
+          "width": 0
+      },
+    "56" : {
+          "figure" : "polygon",
+          "color": [32, 31, 35],
+          "position": [[140, 600], [160, 570], [170, 600]],
+          "width": 0
+      },
+    "57" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[100, 600], [130, 535], [150, 600]],
+          "width": 0
+      },
+    "58" : {
+		"figure" : "polygon",
+		"color": [32, 31, 35],
+		"position": [[170, 600], [175, 540], [180, 600]],
+		"width": 0
+	},
+    "59" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[160, 600], [190, 545], [195, 600]],
+		"width": 0
+	},
+    "60" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[190, 600], [200, 530], [210, 600]],
+          "width": 0
+      },
+    "61" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[200, 600], [220, 550], [240, 600]],
+          "width": 0
+      },
+    "62" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[220, 600], [235, 560], [260, 600]],
+          "width": 0
+      },
+    "63" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[235, 600], [250, 550], [280, 600]],
+          "width": 0
+      },
+     "64" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[235, 600], [280, 540], [300, 600]],
+          "width": 0
+      },
+     "65" : {
+          "figure" : "polygon",
+          "color": [10, 95, 56],
+          "position": [[240, 600], [310, 560], [340, 600]],
+          "width": 0
+      },
+    "66" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[320, 600], [350, 560], [370, 600]],
+		"width": 0
+	},
+    "67" : {
+		"figure" : "polygon",
+		"color": [32, 31, 35],
+		"position": [[370, 600], [390, 510], [400, 600]],
+		"width": 0
+	},
+    "68" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[370, 600], [420, 535], [440, 600]],
+		"width": 0
+	},
+    "69" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[420, 600], [450, 550], [500, 600]],
+		"width": 0
+	},
+    "70" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[480, 600], [530, 550], [560, 600]],
+		"width": 0
+	},
+    "71" : {
+		"figure" : "polygon",
+		"color": [32, 31, 35],
+		"position": [[510, 600], [560, 535], [575, 600]],
+		"width": 0
+	},
+    "72" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[480, 600], [530, 550], [560, 600]],
+		"width": 0
+	},
+    "73" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[540, 600], [580, 540], [600, 600]],
+		"width": 0
+	},
+    "74" : {
+		"figure" : "polygon",
+		"color": [50, 38, 60],
+		"position": [[540, 600], [610, 540], [640, 600]],
+		"width": 0
+	},
+    "75" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[540, 600], [580, 540], [600, 600]],
+		"width": 0
+	},
+    "76" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[570, 600], [640, 530], [690, 600]],
+		"width": 0
+	},
+    "77" : {
+		"figure" : "polygon",
+		"color": [10, 95, 56],
+		"position": [[570, 600], [640, 530], [690, 600]],
+		"width": 0
+	},
+    "78" : {
+		"figure" : "polygon",
+		"color": [32, 31, 35],
+		"position": [[700, 600], [730, 525], [760, 600]],
+		"width": 5
+	},
+     "79" : {
+		"figure" : "line",
+		"color": [32, 31, 35],
+		"position": [[760, 600], [800, 550], [840, 600]],
+		"width": 5
+	},
+     "80" : {
+		"figure" : "line",
+		"color": [10, 95, 56],
+		"position": [[680, 600], [770, 570], [810, 600]],
+		"width": 5
+	},
+    "81" : {
+		"figure" : "line",
+		"color": [10, 95, 56],
+		"position": [[800, 600], [845, 540], [860, 600]],
+		"width": 5
+	},
+    "82" : {
+		"figure" : "line",
+		"color": [32, 31, 35],
+		"position": [[870, 600], [900, 560], [930, 600]],
+		"width": 5
+	},
+    "83" : {
+		"figure" : "line",
+		"color": [10, 95, 56],
+		"position": [[820, 600], [870, 560], [890, 600]],
+		"width": 5
+	},
+    "84" : {
+		"figure" : "line",
+		"color": [10, 95, 56],
+		"position": [[890, 600], [945, 550], [960, 600]],
+		"width": 5
+	},
+    "85" : {
+		"figure" : "line",
+		"color": [50, 38, 60],
+		"position": [[900, 600], [970, 560], [990, 600]],
+		"width": 5
+	},
+    "86" : {
+		"figure" : "line",
+		"color": [10, 95, 56],
+		"position": [[900, 600], [1000, 555], [1020, 600]],
+		"width": 5
+	},
+    "87" : {
+		"figure" : "line",
+		"color": [10, 95, 56],
+		"position": [[1000, 600], [1050, 555], [1080, 600]],
+		"width": 5
+	}
+}
